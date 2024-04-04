@@ -1,2 +1,9 @@
-# portfolio_site
-My own Portfolio Site in the making
+# My own portfolio Site
+
+
+Welcome to my portfolio website! This website is built using HTML, CSS, JavaScript, and Bootstrap. 
+It serves as a platform to showcase my skills, projects, and experiences in a visually appealing and interactive manner.
+
+Im working on getting it online as soon as possible.
+
+Greeting Lukas.
