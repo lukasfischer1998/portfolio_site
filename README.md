@@ -7,3 +7,10 @@ It serves as a platform to showcase my skills, projects, and experiences in a vi
 Im working on getting it online as soon as possible.
 
 Greeting Lukas.
+
+
+Ressources: 
+www.uxwing.com
+https://getbootstrap.com/
+https://www.w3schools.com/css/
+https://fonts.google.com/
